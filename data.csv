@@ -1,0 +1,31 @@
+cocktail_name,category,base_spirit,abv,rating,price_usd,ingredient_count,prep_time_min
+Old Fashioned,Classic,Whiskey,32.0,4.7,14.5,3,4
+Margarita,Sour,Tequila,18.5,4.5,12.0,4,3
+Negroni,Classic,Gin,24.0,4.6,13.5,3,2
+Daiquiri,Sour,Rum,20.0,4.3,,3,3
+Mojito,Highball,Rum,12.5,4.4,11.0,5,5
+Manhattan,Classic,Whiskey,30.0,4.8,15.0,3,3
+Martini,Classic,gin,28.0,,16.0,2,2
+Whiskey Sour,Sour,Whiskey,17.0,4.2,12.5,4,4
+Paloma,Highball,Tequila,10.0,4.0,10.5,4,3
+Pina Colada,Tiki,Rum,13.0,3.9,13.0,4,6
+Cosmopolitan,Modern,Vodka,19.0,4.1,13.0,4,3
+Mai Tai,Tiki,Rum,22.0,4.5,14.0,6,6
+Espresso Martini,Modern,Vodka,18.0,4.7,15.5,4,5
+Aperol Spritz,Highball,Other,10.5,4.3,11.5,3,3
+Gimlet,Classic,Gin,24.5,4.2,,3,2
+Sidecar,Classic,Brandy,25.0,4.1,14.0,3,3
+Boulevardier,Classic,Whiskey,26.0,4.6,14.5,3,3
+French 75,Classic,Gin,13.0,4.4,15.0,4,4
+Dark And Stormy,Highball,Rum,11.0,4.0,,3,2
+Moscow Mule,Highball,Vodka,10.5,4.2,11.0,3,3
+Sazerac,Classic,Whiskey,32.5,4.6,16.5,4,5
+Last Word,Classic,Gin,23.0,4.5,13.5,4,3
+Penicillin,Modern,Whiskey,21.0,4.7,15.0,5,5
+Clover Club,Classic,Gin,17.5,4.0,13.0,5,4
+Bees Knees,Classic,Gin,20.0,3.9,,3,3
+Tom Collins,Highball,Gin,11.5,4.1,11.5,4,3
+Corpse Reviver No 2,Classic,Gin,22.0,4.3,14.0,5,4
+Aviation,Classic,Gin,23.5,4.4,13.5,4,3
+Vieux Carre,Classic,Whiskey,27.0,4.5,,5,5
+Old Fashioned,Classic,whiskey,32.0,4.7,14.5,3,4
